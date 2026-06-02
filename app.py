@@ -1,2 +1,6 @@
 print("hello world")
 print("welcome to devops practice")
+print("this is a sample python code")
+print("we are learning how to use git and github")
+print("we are also learning how to use docker and kubernetes")
+print("we are also learning how to use jenkins and ansible")
